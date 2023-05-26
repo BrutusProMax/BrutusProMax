@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/M0r0shka/m0r0shka/blob/main/assets/git-kosmos.png)](https://)
+[![Header]([https://github.com/BrutusProMax/BrutusProMax/upload/main/neon.jpg)](https://)
 ## I'm a beginner Manual QA
+<!--
 ## My CV
 [Link to my CV](https://spb.hh.ru/resume/f95e0d97ff0ba568e70039ed1f765a6353484e)
-
+-->
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Figma](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=7d5fa6)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=7d5fa7)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)

@@ -14,23 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header]([https://github.com/BrutusProMax/BrutusProMax/upload/main/neon.jpg)](https://)
+[![Header](https://github.com/BrutusProMax/BrutusProMax/blob/main/Neon.jpg)](https://)
 ## I'm a beginner Manual QA
 <!--
 ## My CV
 [Link to my CV](https://spb.hh.ru/resume/f95e0d97ff0ba568e70039ed1f765a6353484e)
 -->
 ### Language and Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+
+![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=7d5fa6)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=215bcd)
+![Unity](https://img.shields.io/badge/Unity-090909?style=for-the-badge&logo=unity&logoColor=d12020)
+![Blender](https://img.shields.io/badge/Blender-090909?style=for-the-badge&logo=blender&logoColor=f76935)
+
+<!--![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Figma](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=7d5fa6)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=7d5fa6)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=7d5fa7)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=3ad07d)
+-->
 
 
 <!--
@@ -43,5 +51,5 @@ Here are some ideas to get you started:
 -->
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0r0shka&hide=stars,contribs&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrutusProMax&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
